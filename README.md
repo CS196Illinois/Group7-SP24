@@ -5,5 +5,5 @@ Group Name: TEAM_NAME
 
 Team Members: Yuki Yong(jiayey3)
 Arianna Pardo (afpardo2)
-
+Isaac Alvarez (ialva6)
 Project Manager: PM_NETID
