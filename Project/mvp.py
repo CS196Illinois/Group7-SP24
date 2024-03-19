@@ -2,8 +2,8 @@ from canvasapi import Canvas
 from datetime import datetime
 
 # Canvas API URL and API key
-API_URL = "https://example.com"
-API_KEY = "p@$$w0rd"
+API_URL = "https://canvas.illinois.edu"
+API_KEY = "14559~DCtQVi6rrMLxGl55yELjUKZMRF7YvGtIY6XJk0jHJ5KWR9Vuud1vSWu27UDD1fmR"
 
 # Initialize Canvas object
 canvas = Canvas(API_URL, API_KEY)
